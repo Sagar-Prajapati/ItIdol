@@ -1,4 +1,3 @@
-# ItIdol Task
 
 _Node API Task_
 
